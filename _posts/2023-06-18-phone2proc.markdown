@@ -5,8 +5,8 @@ date:   2023-06-18 22:21:59 +00:00
 image: /images/phone2proc.png
 categories: research
 author: "Rose Hendrix"
-authors: "<strong>Rose Hendrix*</strong>,Matt Deitke*, Luca Weihs, Ali Farhadi, Kiana Ehsani, Aniruddha Kembhavi"
-venue: "CVPR 2023"
+authors: "<strong>Rose Hendrix*</strong>, Matt Deitke*, Luca Weihs, Ali Farhadi, Kiana Ehsani, Aniruddha Kembhavi"
+venue: "CVPR"
 arxiv: https://arxiv.org/abs/2212.04819
 code: https://github.com/allenai/phone2proc
 website: https://allenai.org/project/phone2proc/home
