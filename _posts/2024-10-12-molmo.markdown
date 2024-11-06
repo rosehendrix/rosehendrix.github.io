@@ -5,7 +5,7 @@ date:   2024-10-12 22:21:59 +00:00
 image: /images/molmo.png
 categories: research
 author: "Rose Hendrix"
-authors: "Matt Detike, Christopher Clark, ..., <strong>Rose Hendrix*</strong> et al."
+authors: "Matt Detike, Christopher Clark, ..., <strong>Rose Hendrix</strong> et al."
 venue: "arXiv"
 arxiv: https://arxiv.org/abs/2409.17146
 #code: https://github.com/allenai/spoc-robot-training

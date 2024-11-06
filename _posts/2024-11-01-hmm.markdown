@@ -5,7 +5,7 @@ date:   2024-11-01 22:21:59 +00:00
 image: /images/harmonicmm.gif
 categories: research
 author: "Rose Hendrix"
-authors: "Ruihan Yang, Yejin Kim, <strong>Rose Hendrix*</strong>, Aniruddha Kembhavi, Xiaolong Wang, Kiana Ehsani"
+authors: "Ruihan Yang, Yejin Kim, <strong>Rose Hendrix</strong>, Aniruddha Kembhavi, Xiaolong Wang, Kiana Ehsani"
 venue: "IROS - Best Paper, Mobile Manipulation"
 arxiv: https://arxiv.org/pdf/2312.06639
 #code: https://github.com/allenai/spoc-robot-training

@@ -5,7 +5,7 @@ date:   2024-07-13 22:21:59 +00:00
 image: /images/open_x.png
 categories: research
 author: "Rose Hendrix"
-authors: "..., <strong>Rose Hendrix*</strong>, et al."
+authors: "..., <strong>Rose Hendrix</strong>, et al."
 venue: "ICRA - Best Paper"
 arxiv: https://arxiv.org/abs/2310.08864
 #code: https://github.com/allenai/spoc-robot-training
