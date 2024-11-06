@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Harmonic Mobile Manipulation"
+date:   2024-11-01 22:21:59 +00:00
+image: /images/harmonicmm.gif
+categories: research
+author: "Rose Hendrix"
+authors: "Ruihan Yang, Yejin Kim, <strong>Rose Hendrix*</strong>, Aniruddha Kembhavi, Xiaolong Wang, Kiana Ehsani"
+venue: "IROS - Best Paper, Mobile Manipulation"
+arxiv: https://arxiv.org/pdf/2312.06639
+#code: https://github.com/allenai/spoc-robot-training
+website: https://rchalyang.github.io/HarmonicMM/
+---
+HarmonicMM is an end-to-end learning approach that combines navigation and manipulation, significantly improving success rates in complex tasks like door opening and table cleaning, with successful real-world transfer of agents trained in simulation.

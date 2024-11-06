@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Open X-Embodiment: Robotic Learning Datasets and RT-X Models"
+date:   2024-11-01 22:21:59 +00:00
+image: /images/open_x.png
+categories: research
+author: "Rose Hendrix"
+authors: "..., <strong>Rose Hendrix*</strong>, et al."
+venue: "ICRA - Best Paper"
+arxiv: https://arxiv.org/abs/2310.08864
+#code: https://github.com/allenai/spoc-robot-training
+website: https://robotics-transformer-x.github.io/
+---
+We assemble a dataset from 22 different robots collected through a collaboration between 21 institutions, demonstrating 527 skills (160266 tasks).

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "FLaRe: Achieving Masterful and Adaptive Robot Policies with Large-Scale Reinforcement Learning Fine-Tuning"
+date:   2024-09-26 22:21:59 +00:00
+image: /images/flare.jpg
+categories: research
+author: "Rose Hendrix"
+authors: "Jiaheng Hu, <strong>Rose Hendrix*</strong, Ali Farhadi, Ani Kembhavi, Roberto Martin-Martin, Peter Stone, Kuo-Hao Zeng, Kiana Ehsani"
+venue: "arXiv"
+arxiv: https://arxiv.org/abs/2409.16578
+#code: https://github.com/allenai/spoc-robot-training
+website: https://robot-flare.github.io/
+---
+FLaRe utilizes large-scale reinforcement learning fine-tuning to create adaptive and highly capable robot policies, achieving state-of-the-art results in both simulated and real-world environments.
