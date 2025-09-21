@@ -6,7 +6,7 @@ image: /images/molmo.png
 categories: research
 author: "Rose Hendrix"
 authors: "Matt Detike, Christopher Clark, ..., <strong>Rose Hendrix</strong> et al."
-venue: "CVPR (Best Paper Honorable Mention)"
+venue: "CVPR, <strong>Best Paper Honorable Mention</strong>"
 arxiv: https://arxiv.org/abs/2409.17146
 #code: https://github.com/allenai/spoc-robot-training
 website: https://molmo.allenai.org/blog

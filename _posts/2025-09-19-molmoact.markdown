@@ -5,9 +5,9 @@ date:   2025-09-19 22:21:59 +00:00
 image: /images/molmoact.gif
 categories: research
 author: "Rose Hendrix"
-authors: "Jason Lee, Jiafei Duan, Haoquan Fang, ..., <strong>Rose Hendrix</strong> (core contributor) et al."
+authors: "Jason Lee*, Jiafei Duan*, Haoquan Fang*, ..., <strong>Rose Hendrix</strong> et al."
 venue: "In submission"
-arxiv: https://arxiv.org/abs/TBD
+arxiv: https://arxiv.org/abs/2508.07917
 website: https://allenai.org/blog/molmoact
 ---
-We introduce Action Reasoning Models (ARMs), a class of robotic foundation models that integrate perception, planning, and control through structured reasoning. MolmoAct encodes observations into depth-aware perception tokens, generates spatial plans as trajectory traces, and predicts precise actions, achieving 70.5% on SimplerEnv and 86.6% on LIBERO with explainable and steerable behavior.
+MolmoAct encodes observations into depth-aware perception tokens, generates spatial plans as trajectory traces, and predicts precise actions, achieving 70.5% on SimplerEnv and 86.6% on LIBERO with explainable and steerable behavior.
