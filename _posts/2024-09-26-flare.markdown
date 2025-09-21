@@ -6,7 +6,7 @@ image: /images/flare.png
 categories: research
 author: "Rose Hendrix"
 authors: "Jiaheng Hu, <strong>Rose Hendrix</strong>, Ali Farhadi, Ani Kembhavi, Roberto Martin-Martin, Peter Stone, Kuo-Hao Zeng, Kiana Ehsani"
-venue: "arXiv"
+venue: "ICRA"
 arxiv: https://arxiv.org/abs/2409.16578
 #code: https://github.com/allenai/spoc-robot-training
 website: https://robot-flare.github.io/

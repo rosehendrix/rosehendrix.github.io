@@ -6,7 +6,7 @@ image: /images/poliformer.png
 categories: research
 author: "Rose Hendrix"
 authors: "Kuo-Hao Zeng, Zichen (Charles) Zhang, Kiana Ehsani, <strong>Rose Hendrix</strong>, Jordi Salvador, Alvaro Herrasti, Ross Girshick, Aniruddha Kembhavi, Luca Weihs"
-venue: "CoRL"
+venue: "CoRL <strong>Outstanding Paper</strong>"
 arxiv: https://arxiv.org/pdf/2406.20083
 #code: https://github.com/allenai/spoc-robot-training
 website: https://poliformer.allen.ai/
