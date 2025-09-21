@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation"
-date:   2025-09-28 22:21:59 +00:00
+date:   2025-09-18 22:21:59 +00:00
 image: /images/graspmolmo.png
 categories: research
 author: "Rose Hendrix"
