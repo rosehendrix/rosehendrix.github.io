@@ -8,5 +8,6 @@ author: "Rose Hendrix"
 authors: "Yejin Kim, Wilbert Pumacay, ..., <strong>Rose Hendrix</strong> (core) et al."
 venue: "In submission"
 arxiv: https://arxiv.org/abs/2602.11337
+website: https://allenai.org/blog/molmospaces
 ---
 MolmoSpaces is a fully open ecosystem for large-scale robot policy benchmarking, featuring 230k+ diverse indoor environments, 130k annotated object assets with 42M stable grasps, and simulator-agnostic support for MuJoCo, Isaac, and ManiSkill. MolmoSpaces-Bench, its 8-task benchmark suite, exhibits strong sim-to-real correlation (R = 0.96, ρ = 0.98).

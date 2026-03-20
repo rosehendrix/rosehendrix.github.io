@@ -2,11 +2,12 @@
 layout: post
 title:  "MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation"
 date:   2026-03-17 22:21:59 +00:00
-image: /images/molmobotsquare.png
+image: /images/MolmoBotSquare.png
 categories: research
 author: "Rose Hendrix"
 authors: "<strong>Rose Hendrix*</strong>, Abhay Deshpande*, Maya Guru*,  Snehal Jauhri*, ... et al."
 venue: "In submission"
 arxiv: https://arxiv.org/abs/2603.16861
+website: https://allenai.org/blog/molmobot-robot-manipulation
 ---
 MolmoB0T demonstrates that sufficiently large-scale and diverse simulated training data enables effective zero-shot sim-to-real transfer for both static and mobile manipulation, without any real-world fine-tuning. On tabletop pick-and-place, MolmoBot achieves 79.2% real-world success, outperforming π₀.₅ at 39.2%.
