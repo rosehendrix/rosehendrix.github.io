@@ -7,7 +7,22 @@ categories: research
 author: "Rose Hendrix"
 authors: "<strong>Rose Hendrix*</strong>, Abhay Deshpande*, Maya Guru*,  Snehal Jauhri*, ... et al."
 venue: "In submission"
-arxiv: https://arxiv.org/abs/2603.16861
-website: https://allenai.org/blog/molmobot-robot-manipulation
+links:
+  - name: Paper
+    url: https://arxiv.org/pdf/2603.16861
+  - name: Blog
+    url: https://allenai.org/blog/molmobot-robot-manipulation
+  - name: Code (Models)
+    url: https://github.com/allenai/MolmoBot
+  - name: Code (Data)
+    url: https://github.com/allenai/molmospaces
+  - name: 🤗 Models
+    url: https://huggingface.co/collections/allenai/molmobot-models
+  - name: 🤗 Dataset
+    url: https://huggingface.co/datasets/allenai/MolmoBot-Data
+  - name: Demo
+    url: https://github.com/allenai/MolmoBot/blob/main/MolmoBot/demo_policy.ipynb
 ---
 MolmoB0T demonstrates that sufficiently large-scale and diverse simulated training data enables effective zero-shot sim-to-real transfer for both static and mobile manipulation, without any real-world fine-tuning. On tabletop pick-and-place, MolmoBot achieves 79.2% real-world success, outperforming π₀.₅ at 39.2%.
+<br>
+<strong>🏆 Best Paper Award</strong> at the <a href="https://sites.google.com/view/icra-2026-sdrl-workshop/papers">Synthetic Data for Robot Learning (SDRL)</a>, <a href="https://icra2026vlapipeline.github.io/">VLA Pipeline</a>, and <a href="https://icra-beyond-teleop.github.io/index.html#accepted/">Beyond Teleoperation</a> workshops at ICRA 2026.

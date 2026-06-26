@@ -117,6 +117,9 @@
               {% if post.demo %}
               <a href="{{post.demo}}">pdf</a> /
               {% endif %}
+              {% for link in post.links %}
+              <a href="{{link.url}}" target="_blank">{{link.name}}</a> /
+              {% endfor %}
               <p></p>
               {{ post.excerpt }}
             </td>
