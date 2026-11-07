@@ -37,16 +37,16 @@
               </h1>
               <p>
                 <email>
-              <font id="email" style="display:inline;">c@rihdrmnasmg.imxeo.ole.</font>
+              <font id="email" style="display:inline;">rrceosnhob@tim.idrosxoec</font>
               <script>
                 emailScramble = new scrambledString(document.getElementById('email'),
-                  'emailScramble', 'c@rihdrmnasmg.imxeo.ole.',
-                  [21, 14, 11, 18, 7, 10, 0, 23, 9, 17, 2, 16, 15, 6, 12, 5, 13, 3, 22, 4, 1, 19, 8, 20]);
+                  'emailScramble', 'rrceosnhob@tim.idrosxoec',
+                  [9, 17, 6, 12, 1, 11, 15, 13, 3, 2, 8, 4, 18, 23, 20, 5, 16, 0, 22, 7, 19, 10, 14, 21]);
               </script>
               </email>
               </p>
 
-              <p>I am a research scientist at the Allen Institute for Artificial Intelligence (<a href="https://allenai.org">AI2</a>) on the Robotics team under <a href="https://homes.cs.washington.edu/~fox/">Dieter Fox</a>, where I work on massively scaling robotics in simulation to enable broadly capable zero-shot generalist policies. Prior to that, I earned my PhD in Mechanical Engineering at the University of Washington, where I was advised by <a href="http://faculty.washington.edu/devasia/">Santosh Devasia</a> and Joseph Garbini.
+              <p>I am currently working on robotics in stealth. Previously, I was a research scientist at the Allen Institute for Artificial Intelligence (<a href="https://allenai.org">Ai2</a>) on the Robotics team under <a href="https://homes.cs.washington.edu/~fox/">Dieter Fox</a>, where I worked on massively scaling robotics in simulation to enable broadly capable zero-shot generalist policies. Before that, I earned my PhD in Mechanical Engineering at the University of Washington, where I was advised by <a href="http://faculty.washington.edu/devasia/">Santosh Devasia</a> and Joseph Garbini.
               </p>
 
 
@@ -61,7 +61,7 @@
 <!--              <img style="width:100%;max-width:100%" alt="profile photo" src="images/rmhend_headshot_2024_crop.jpg">-->
 <!--            </td>-->
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <img style="width:100%;max-width:100%;border-radius:50%;object-fit:cover;" alt="profile photo" src="images/rmhend_headshot_2024_crop.jpg">
+              <img style="width:100%;max-width:100%;border-radius:50%;object-fit:cover;" alt="profile photo" src="images/rmhend_headshot_2026.jpg">
             </td>
           </tr>
         </table>
@@ -82,10 +82,19 @@
           {% for cat in post.categories %}
           {% if cat == 'research' %}
           <tr>
-            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+            <td style="padding:2.5%;width:30%;vertical-align:middle;min-width:120px;text-align:center">
+              {% if post.image contains '.mp4' %}
+              <div style="position:relative;">
+                <video src="{{post.image}}" autoplay loop muted playsinline style="display:block; width:100%; height:auto;"></video>
+                {% if post.overlay %}
+                <img src="{{post.overlay}}" alt="" style="position:absolute; left:10%; top:50%; width:80%; transform:translateY(-50%); filter:drop-shadow(0 0 3px rgba(0,0,0,0.9)); pointer-events:none;" />
+                {% endif %}
+              </div>
+              {% else %}
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              {% endif %}
             </td>
-            <td style="padding:2.5%;width:75%;vertical-align:middle">
+            <td style="padding:2.5%;width:70%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
               {{post.authors}}

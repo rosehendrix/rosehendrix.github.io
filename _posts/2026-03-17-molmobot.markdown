@@ -2,16 +2,20 @@
 layout: post
 title:  "MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation"
 date:   2026-03-17 22:21:59 +00:00
-image: /images/MolmoBotSquare.png
+image: /images/MolmoBot_spork.mp4
 categories: research
 author: "Rose Hendrix"
 authors: "<strong>Rose Hendrix*</strong>, Abhay Deshpande*, Maya Guru*,  Snehal Jauhri*, ... et al."
-venue: "In submission"
+venue: "CoRL, <strong>Oral</strong>"
 links:
   - name: Paper
     url: https://arxiv.org/pdf/2603.16861
+  - name: Website
+    url: https://allenai.github.io/MolmoBot
   - name: Blog
     url: https://allenai.org/blog/molmobot-robot-manipulation
+  - name: Video
+    url: https://www.youtube.com/watch?v=UQVX0iq67mo
   - name: Code (Models)
     url: https://github.com/allenai/MolmoBot
   - name: Code (Data)

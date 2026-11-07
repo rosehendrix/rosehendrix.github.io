@@ -2,7 +2,8 @@
 layout: post
 title:  "MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation"
 date:   2026-02-11 22:21:59 +00:00
-image: /images/molmospacessquare.png
+image: /images/MolmoSpaces_houses.mp4
+overlay: /images/molmospaces_logo.png
 categories: research
 author: "Rose Hendrix"
 authors: "Yejin Kim, Wilbert Pumacay, ..., <strong>Rose Hendrix</strong> (core) et al."

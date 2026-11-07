@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  "MolmoAct: Action Reasoning Models that can Reason in Space"
-date:   2025-09-19 22:21:59 +00:00
-image: /images/molmoact.gif
+date:   2026-01-15 22:21:59 +00:00
+image: /images/MolmoAct.mp4
 categories: research
 author: "Rose Hendrix"
-authors: "Jason Lee*, Jiafei Duan*, Haoquan Fang*, ..., <strong>Rose Hendrix</strong> et al."
-venue: "In submission"
+authors: "Jason Lee*, Jiafei Duan*, Haoquan Fang*, ..., <strong>Rose Hendrix</strong> (core) et al."
+venue: "ICRA"
 arxiv: https://arxiv.org/abs/2508.07917
 website: https://allenai.org/blog/molmoact
 ---
 MolmoAct encodes observations into depth-aware perception tokens, generates spatial plans as trajectory traces, and predicts precise actions, achieving 70.5% on SimplerEnv and 86.6% on LIBERO with explainable and steerable behavior.
+<br>
+<strong>🏆 Best Paper Runner-up</strong> at the <a href="https://rational-robots.github.io/">Rational Robots</a> workshop and <strong>Best Paper Nominee</strong> at the Data workshop at CoRL 2025.

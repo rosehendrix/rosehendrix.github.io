@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "MolmoAct2: Action Reasoning Models for Real-world Deployment"
+# Released May 2026; dated before MolmoBot so MolmoBot stays at the top of the list
+date:   2026-03-16 22:21:59 +00:00
+image: /images/MolmoAct2.mp4
+categories: research
+author: "Rose Hendrix"
+authors: "Haoquan Fang*, Jiafei Duan*, ..., <strong>Rose Hendrix</strong> et al."
+venue: "CoRL, <strong>Spotlight</strong>"
+links:
+  - name: Paper
+    url: https://arxiv.org/pdf/2605.02881
+  - name: Blog
+    url: https://allenai.org/blog/molmoact2
+  - name: Code
+    url: https://github.com/allenai/molmoact2
+  - name: 🤗 Models
+    url: https://huggingface.co/collections/allenai/molmoact2-models
+  - name: 🤗 Datasets
+    url: https://huggingface.co/collections/allenai/molmoact2-datasets
+---
+MolmoAct2 is a fully open action reasoning model built for real-world deployment, with an embodied-reasoning VLM backbone (MolmoER), a flow-matching action expert, and adaptive-depth reasoning at a fraction of prior latency. It outperforms strong baselines including π₀.₅ across 7 simulation and real-world benchmarks, and releases the largest open bimanual dataset to date.
+<br>
+<strong>🏆 Best Paper Award</strong> at the <a href="https://actiongapworkshop.github.io/">TAG</a> workshop at CoRL 2026.
